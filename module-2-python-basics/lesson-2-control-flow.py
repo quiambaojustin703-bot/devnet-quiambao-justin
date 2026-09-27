@@ -5,7 +5,7 @@ Date: September 27, 2026
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
-teaching a friend who's never coded before)
+teaching a friend who's never coded before) 
 ============================================
 Hello, my friend! Today, I will explain to you what Control Flow is.
 Control flow is used to make decisions in a program. 
