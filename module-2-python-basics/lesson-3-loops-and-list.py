@@ -1,16 +1,16 @@
 """
 Module 2 — Lesson 3: Loops & Lists
-Student: [Justin Quiambao]
-Date: [September 27, 2026]
+Student: Justin Quiambao
+Date: September 27, 2026
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
-[Hello, my friend! Today, I will explain to you what Loops & Lists are. 
+Hello, my friend! Today, I will explain to you what Loops & Lists are. 
 A list is used to store multiple values in one variable. 
 A loop allows us to repeat a block of code without writing the same code many times. 
-For example, we can use a for loop to go through each item in a list.]
+For example, we can use a for loop to go through each item in a list.
 
 
 ============================================
@@ -21,14 +21,11 @@ KEY VOCABULARY
 - while loop: repeats code while a condition is True.
 - index: the position of an item in a list.
 - iteration: one repetition of a loop.
-(add more as needed)
 
 
 ============================================
 MY OWN EXAMPLE(S)
 ============================================
-Write at least one working example below that you
-came up with yourself — not copied from class.
 """
 
 subjects = ["Python", "Networking", "Database", "Web Development"]
@@ -41,12 +38,18 @@ for subject in subjects:
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
 ============================================
-[One mistake I made was forgetting the indentation inside a for loop. 
-I learned that the code that belongs to the loop needs to be indented so Python knows which code should be repeated.]
+I forgot to indent the print(subject) line inside my for loop. When 
+I ran it, I got an IndentationError: "expected an indented block 
+after 'for' statement on line 3." This taught me that Python uses 
+indentation to know which lines of code belong inside a loop 
+without it, Python doesn't know what to repeat.
 
 
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
 ============================================
-[optional]
+Loops and lists are used everywhere in real programs for example, 
+printing a list of students in a class, checking attendance for 
+each student one by one, or calculating grades for multiple records 
+without writing the same code over and over.
 """
