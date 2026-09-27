@@ -6,31 +6,35 @@ Date: September 27, 2026
 ============================================
 WHAT IS THIS TOPIC?
 ============================================
-A function is a block of code used to perform a specific task.
-It helps us reuse code instead of writing the same code again.
-A function can receive a value and return a result.
+Hello, my friend! Today, I will explain to you what a function is. 
+A function is like a small part of a program that is made to do one specific task. 
+You can use the function whenever you need that task without writing the same code again. 
+You can also give the function a value, and it can give you a result back.
+
+
 
 ============================================
 KEY VOCABULARY
 ============================================
-- function: a block of code that performs a task.
-- Parameter: a variable that receives a value in a function.
-- Argument: the actual value given to a parameter.
-- Return: sends a result back from the function.
+- function: a part of the program that does a specific task.
+- parameter: a name or variable that receives a value in the function.
+- argument: the actual value that we give to the function.
+- return: gives a result back from the function.
 
 
 ============================================
 MY OWN EXAMPLE(S)
 ============================================
 """
+#So, My little friend this is my shorter code example code that i would like to show you
 
-def greet(name):
-    return "Hello, " + name
 
-name = greet("Justin")
+def greet(name): # This is a Function with the parameter
+    return "Hello, " + name # So this is a Return that gives the result back
 
-print(name) 
+name = greet("My Friend") # and also this is a Argument
 
+print(name) #also this, you can print or run that actually print is "Hell, My Friend
 
 """
 ============================================
