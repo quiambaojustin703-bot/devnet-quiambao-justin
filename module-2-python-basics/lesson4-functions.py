@@ -15,6 +15,7 @@ You can also give the function a value, and it can give you a result back.
 KEY VOCABULARY
 ============================================
 #So, for our key vocabulary we use 
+
 - function: a part of the program that does a specific task.
 - parameter: a name or variable that receives a value in the function.
 - argument: the actual value that we give to the function.
