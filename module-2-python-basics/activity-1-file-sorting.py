@@ -2,7 +2,7 @@
 Module 2 — Activity: File Sorting with os and shutil
 Student: [Justin Quiambao]
 Date: [September 27, 2026]
-
+ 
 ============================================
 WHAT DID YOU BUILD? (explain in your own words)
 ============================================
