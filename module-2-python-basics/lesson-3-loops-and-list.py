@@ -4,7 +4,7 @@ Student: Justin Quiambao
 Date: September 27, 2026
 
 ============================================
-WHAT IS THIS TOPIC? (explain it like you're
+WHAT IS THIS TOPIC? (explain it like you're 
 teaching a friend who's never coded before)
 ============================================
 Hello, my friend! Today, I will explain to you what Loops & Lists are. 
