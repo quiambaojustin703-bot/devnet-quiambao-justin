@@ -1,6 +1,6 @@
 """
 Module 2 — Lesson 2: Control Flow (if / elif / else)
-Student: [your name]
+Student: [Justin Quiambao]
 Date: [date]
 
 ============================================
