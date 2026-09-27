@@ -11,16 +11,14 @@ A function is like a small part of a program that is made to do one specific tas
 You can use the function whenever you need that task without writing the same code again. 
 You can also give the function a value, and it can give you a result back.
 
-
-
 ============================================
 KEY VOCABULARY
 ============================================
+#So, for our key vocabulary we use 
 - function: a part of the program that does a specific task.
 - parameter: a name or variable that receives a value in the function.
 - argument: the actual value that we give to the function.
 - return: gives a result back from the function.
-
 
 ============================================
 MY OWN EXAMPLE(S)
@@ -40,9 +38,8 @@ print(name) #also this, you can print or run that actually print is "Hell, My Fr
 ============================================
 A MISTAKE I MADE
 ============================================
-One mistake I want to avoid is a getting confused between a parameter
-and an argument. I learn that the parameter is use when creating the function, while the argument is the actual value given when
-calling the function.
+One mistake I made was getting confused about the difference between a parameter and an argument. in the first place, 
+I thought they were the same but I learn that the parameter is the variable in the function, while the argument is the actual value given to it.
 
 
 ============================================
