@@ -33,7 +33,7 @@ def greet(name): # This is a Function with the parameter
 
 name = greet("My Friend") # and also this is a Argument
 
-print(name) #also this, you can print or run that actually print is "Hell, My Friend
+print(name) #also this, you can print or run that actually output is "Hell, My Friend
 
 """
 ============================================
