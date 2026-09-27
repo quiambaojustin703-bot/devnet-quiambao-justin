@@ -47,9 +47,10 @@ print(student)
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
 ============================================
-[One mistake I made was getting confused about the difference between
-an int and a float. I learned that an int is a whole number, while a
-float can have a decimal value.]
+[I wrote age = "20" with quotation marks, then tried print(age + 5). 
+I got a TypeError: "can only concatenate str (not 'int') to str." 
+This taught me that putting quotes around a number makes it a 
+string, not an integer]
 
 
 ============================================
