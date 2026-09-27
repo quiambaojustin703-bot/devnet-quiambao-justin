@@ -2,7 +2,7 @@
 Module 2 — Lesson 1: Variables & Data Types
 Student: Justin Quiambao
 Date: September 27, 2026
-
+ 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
