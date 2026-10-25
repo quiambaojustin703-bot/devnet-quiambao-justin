@@ -14,11 +14,11 @@ if response.status_code == 200:
     weight = pokemon.get("weight")
     abilities = [item["ability"]["name"] for item in pokemon.get("abilities", [])]
 
-    print("WHO'S THAT POKEMON!? - main.py:17")
+    print("WHO'S THAT POKEMON!?")
     print("")
-    print(f"Height: {height} - main.py:19")
-    print(f"Weight: {weight} - main.py:20")
-    print(f"Abilities: {', '.join(abilities)} - main.py:21")
+    print(f"Height: {height}")
+    print(f"Weight: {weight}")
+    print(f"Abilities: {', '.join(abilities)}")
     print("")
 
     attempts = 3
@@ -26,13 +26,13 @@ if response.status_code == 200:
         guess = input(f"Enter your guess ({attempts} left): ").strip()
         
         if guess.lower() == chosen_name.lower():
-            print("You got it right! - main.py:29")
+            print("You got it right!")
             break
         else:
             attempts -= 1
             if attempts > 0:
-                print("Wrong! Try again.\n - main.py:34")
+                print("Wrong! Try again.\n")
             else:
-                print(f"\nGame over! It was {chosen_name}. - main.py:36")
+                print(f"\nGame over! It was {chosen_name}.")
 else:
-    print("Failed to fetch. - main.py:38")
+    print("Failed to fetch.")
